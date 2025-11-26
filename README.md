@@ -11,10 +11,10 @@
 I'm a passionate Full-Stack Developer based in **Morocco** 🇲🇦, specializing in building dynamic and scalable web applications. I love exploring new technologies and creating solutions that make a difference.
 
 - 🔭 Currently working on full-stack projects with modern frameworks
-- 🌱 Learning **Symfony** & **Nuxt.js** to expand my backend and frontend expertise
-- 💡 Interested in clean code, best practices, and user-centric design
+- 🌱 Learning **n8n** & **Neo4j** to explore workflow automation and graph databases
+- 💡 Interested in clean code, microservices architecture, and scalable solutions
 - 🎯 Goal: Contributing to open-source and building impactful applications
-- 💬 Ask me about **React, Vue, Laravel, PHP, Java**
+- 💬 Ask me about **React, Vue, Laravel, PHP, Java, Node.js, Microservices**
 
 ## 📫 Let's Connect
 
@@ -33,20 +33,28 @@ I'm a passionate Full-Stack Developer based in **Morocco** 🇲🇦, specializin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Database
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database & Search
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+### Tools & Architecture
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=probot&logoColor=white)
 
 ## 📈 Contribution Graph
 
